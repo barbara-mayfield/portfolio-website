@@ -2462,11 +2462,7 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
-
-		.lambda-logo {
-			max-width: 20px;
-			max-height: 20px;
-		}
+			
 /* List */
 
 	ol {
